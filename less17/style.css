@@ -1,0 +1,27 @@
+.container-fluid{
+    background: rgb(177, 230, 31);
+}
+.col{
+    margin: 10px;
+}
+.card-img-top{
+    height: 230px;
+    width: 200px;
+}
+.label-top{
+    position: absolute ;
+    top: 8px;
+    right: 8px;
+}
+.rev{
+    color: #666;
+}
+.lfl{
+    border-radius: 20%;
+}
+.ps{
+    width: 100%;
+    height: 1000px;
+    background-color: rgb(86, 228, 221);
+    border: 2px solid #666;
+}
